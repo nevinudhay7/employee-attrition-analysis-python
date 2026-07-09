@@ -115,7 +115,3 @@ plt.savefig("images/scatter.png", dpi=300, bbox_inches="tight")
 plt.show()
 
 print("PROJECT COMPLETED SUCCESSFULLY!")
-
-git init
-git add .
-git commit -m "Initial commit"
