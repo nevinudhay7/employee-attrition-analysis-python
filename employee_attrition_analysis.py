@@ -2,7 +2,6 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import os
-
 os.makedirs("images", exist_ok=True)
 
 df = pd.read_csv("WA_Fn-UseC_-HR-Employee-Attrition.csv")
